@@ -23,7 +23,3 @@ $ node server.js 8888
 $ yarn global add node-dev
 $ node-dev server.js 8888
 ```
-
-#### 浏览
-
-项目浏览在 gh-pages 分支中。
